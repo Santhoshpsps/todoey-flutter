@@ -11,12 +11,12 @@ The objective of this tutorial is to understand how to manage state in Flutter. 
 ## What you will create
 
 A todolist app to keep track of all your tasks.
-<p align="center">
+
 <img src="https://github.com/Santhoshpsps/todoey-flutter/blob/master/s.PNG" height="400" width="500">
- </p>
- <p align="center">
+
+ 
 <img src="https://github.com/Santhoshpsps/todoey-flutter/blob/master/t.PNG" height="400" width="500">
- </p>
+
 
 
 ## What you will learn
